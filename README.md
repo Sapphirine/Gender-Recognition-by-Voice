@@ -30,6 +30,4 @@ This step is for boosting accuracy in classification algorithms. We finally choo
 Use ten main features provided by a person, we can use Gradient-Boosted Tree model to predict the gender accurately.
 ```
 ### Youtube link:
-```
-
-```
+https://www.youtube.com/watch?v=4G51ieXF_DQ
